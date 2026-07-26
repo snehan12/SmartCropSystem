@@ -252,10 +252,3 @@ tailwindcss, autoprefixer, postcss
 - The frontend communicates with the backend on `http://localhost:5000`. Make sure the Flask server is running before using the UI.
 
 ---
-
-
-
-## 👩‍💻 Author
-
-**Sneha**  
-Built with ❤️ using React, Flask, and scikit-learn.
